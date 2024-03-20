@@ -36,7 +36,7 @@ public class Demo {
         }
 		
 		driver.get("https://www.coursera.org/");
-		driver.quit();
+		
 		
 	}
 	
